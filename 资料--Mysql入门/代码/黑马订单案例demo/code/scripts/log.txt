@@ -1,0 +1,1466 @@
+2020-04-11 13:02:13,527-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 13:02:13,560-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 13:02:13,561-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 13:02:13,561-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 13:02:13,619-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 13:02:13,640-web.py[lineno:89]-INFO-静态资源请求地址:/orders/
+2020-04-11 14:22:33,046-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:22:33,106-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:22:33,107-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:22:33,108-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:22:33,187-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:22:33,199-web.py[lineno:89]-INFO-静态资源请求地址:/orders/
+2020-04-11 14:24:55,270-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:24:55,312-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:24:55,329-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:24:55,330-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:24:55,405-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:24:55,427-web.py[lineno:89]-INFO-静态资源请求地址:/orders.html/
+2020-04-11 14:26:43,390-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:26:43,472-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:26:43,477-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:26:43,482-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:26:43,557-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:26:43,561-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:27:10,595-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:27:55,265-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:27:57,106-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:28:54,009-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:29:06,190-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:29:06,228-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:29:06,233-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:29:06,234-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:29:06,318-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:29:06,369-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:31:40,261-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:31:40,301-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:31:40,310-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:31:40,311-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:31:40,374-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:31:40,386-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:34:09,526-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:34:09,588-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:34:09,589-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:34:09,590-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:34:09,654-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:34:09,661-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:37:32,444-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:37:32,496-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:37:32,507-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:37:32,507-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:37:32,585-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:37:32,591-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:39:35,144-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:39:35,269-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:39:35,269-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:39:35,284-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:39:35,388-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:39:35,461-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:40:21,436-web.py[lineno:57]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 14:40:21,445-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:41:42,836-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:41:42,891-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:41:42,903-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:41:42,903-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:41:42,959-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:41:42,965-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:42:02,187-web.py[lineno:57]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 14:42:02,190-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:43:04,135-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:43:04,211-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:43:04,213-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:43:04,214-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:43:04,292-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:43:04,294-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:43:23,011-web.py[lineno:57]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 14:43:23,017-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:43:38,903-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:43:39,007-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:43:39,018-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:43:39,019-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:43:39,117-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:43:39,118-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:45:59,602-web.py[lineno:57]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 14:46:09,969-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:46:18,340-web.py[lineno:57]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 14:46:36,464-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:46:36,534-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:46:36,535-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:46:36,535-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:46:36,579-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:46:36,592-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:47:37,509-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:47:37,587-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:47:37,593-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:47:37,597-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:47:37,672-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:47:37,673-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:47:38,950-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:47:38,998-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:47:39,026-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:47:39,027-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:47:39,076-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:47:39,108-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:50:25,680-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:50:25,758-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:50:25,812-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:50:25,813-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:50:25,892-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:50:25,896-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:50:28,135-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:50:28,189-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:50:28,190-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:50:28,192-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:50:28,244-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:50:28,262-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:51:14,783-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:51:14,825-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:51:14,845-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:51:14,850-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:51:14,956-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:51:14,956-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:51:19,277-web.py[lineno:57]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 14:53:45,322-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 14:53:45,372-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 14:53:45,373-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 14:53:45,374-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 14:53:45,449-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 14:53:45,460-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 14:53:51,605-web.py[lineno:57]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 14:53:53,125-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 16:09:39,541-web.py[lineno:57]-INFO-动态资源请求地址:/index.html
+2020-04-11 16:09:39,568-web.py[lineno:89]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 16:09:39,577-web.py[lineno:89]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 16:09:39,578-web.py[lineno:89]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 16:09:39,602-web.py[lineno:89]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 16:09:39,608-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 16:10:17,067-web.py[lineno:57]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 16:10:17,070-web.py[lineno:57]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:09:37,466-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:09:37,504-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:09:37,507-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:09:37,508-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:09:37,533-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:09:37,540-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:10:10,618-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:10:10,621-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:11:47,730-web.py[lineno:166]-WARNING-在终端启动程序参数的个数不等于2!
+2020-04-11 17:13:35,151-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:13:36,645-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:13:36,650-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:13:36,659-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:13:36,660-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:13:36,662-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:13:36,664-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:13:36,665-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:13:36,668-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:13:36,669-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:13:36,669-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:13:36,671-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:13:36,671-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:13:36,672-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:13:36,674-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:13:36,678-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:13:36,679-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:13:36,680-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:13:36,684-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:13:36,685-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:13:36,687-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:13:36,689-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:13:36,690-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:13:36,752-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:13:36,752-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:13:36,753-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:13:36,754-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:13:36,754-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:13:36,755-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:13:36,756-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:13:36,757-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:13:36,760-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:13:36,761-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:13:36,761-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:13:36,810-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:13:36,812-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:13:36,813-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:13:36,815-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:13:36,819-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:13:36,821-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:13:36,823-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:13:36,824-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:13:36,826-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:13:36,826-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:13:36,836-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:13:36,839-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:13:36,846-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:13:36,851-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:13:50,124-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:13:50,131-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:13:50,154-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:13:50,183-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:13:50,184-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:14:28,366-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:14:28,375-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:17:52,258-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:17:52,266-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:18:52,378-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:18:53,683-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:18:53,685-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:18:53,690-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:18:53,691-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:18:53,693-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:18:53,697-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:18:53,699-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:18:53,701-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:18:53,702-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:18:53,703-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:18:53,705-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:18:53,705-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:18:53,706-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:18:53,707-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:18:53,709-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:18:53,710-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:18:53,711-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:18:53,714-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:18:53,715-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:18:53,717-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:18:53,720-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:18:53,723-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:18:53,778-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:18:53,778-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:18:53,779-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:18:53,781-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:18:53,781-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:18:53,781-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:18:53,782-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:18:53,783-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:18:53,785-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:18:53,786-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:18:53,787-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:18:53,830-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:18:53,831-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:18:53,831-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:18:53,832-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:18:53,833-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:18:53,835-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:18:53,836-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:18:53,837-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:18:53,837-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:18:53,838-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:18:53,840-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:18:53,841-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:18:53,853-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:18:53,862-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:18:54,522-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:18:54,537-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:18:54,571-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:18:54,627-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:18:54,660-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:19:26,231-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:19:26,234-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:30:26,745-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:30:30,015-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:30:30,020-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:30:30,031-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:30:30,032-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:30:30,034-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:30:30,037-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:30:30,038-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:30:30,042-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:30:30,043-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:30:30,045-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:30:30,048-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:30:30,048-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:30:30,050-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:30:30,052-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:30:30,056-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:30:30,058-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:30:30,061-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:30:30,067-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:30:30,069-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:30:30,072-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:30:30,074-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:30:30,077-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:30:30,192-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:30:30,192-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:30:30,193-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:30:30,195-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:30:30,195-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:30:30,196-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:30:30,197-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:30:30,198-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:30:30,199-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:30:30,200-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:30:30,200-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:30:30,262-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:30:30,265-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:30:30,265-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:30:30,267-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:30:30,269-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:30:30,271-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:30:30,273-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:30:30,274-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:30:30,275-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:30:30,275-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:30:30,278-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:30:30,279-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:30:30,283-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:30:30,285-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:30:30,366-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:30:30,369-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:30:30,385-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:30:30,409-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:30:30,416-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:30:33,467-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:30:53,054-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:30:53,056-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:30:53,072-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:30:53,091-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:30:53,104-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:31:30,729-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:31:30,739-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:32:24,063-web.py[lineno:58]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:32:26,802-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:32:26,806-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:32:26,818-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:32:26,820-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:32:26,821-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:32:26,825-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:32:26,828-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:32:26,832-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:32:26,834-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:32:26,835-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:32:26,837-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:32:26,838-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:32:26,840-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:32:26,841-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:32:26,850-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:32:26,852-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:32:26,853-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:32:26,860-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:32:26,862-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:32:26,866-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:32:26,869-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:32:26,872-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:32:27,013-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:32:27,013-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:32:27,014-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:32:27,016-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:32:27,017-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:32:27,018-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:32:27,020-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:32:27,022-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:32:27,023-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:32:27,024-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:32:27,025-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:32:27,085-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:32:27,088-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:32:27,088-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:32:27,089-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:32:27,090-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:32:27,091-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:32:27,093-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:32:27,095-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:32:27,097-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:32:27,098-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:32:27,102-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:32:27,104-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:32:27,112-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:32:27,115-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:32:27,895-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:32:27,896-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:32:27,910-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:32:27,925-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:32:27,934-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:32:52,940-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:32:52,948-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:38:16,162-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:38:16,168-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:38:17,970-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:38:17,976-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:38:17,990-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:38:17,994-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:38:17,996-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:38:18,013-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:38:18,015-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:38:18,028-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:38:18,038-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:38:18,042-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:38:18,050-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:38:18,050-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:38:18,055-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:38:18,059-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:38:18,068-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:38:18,075-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:38:18,079-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:38:18,091-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:38:18,093-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:38:18,101-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:38:18,103-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:38:18,105-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:38:18,158-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:38:18,158-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:38:18,159-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:38:18,161-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:38:18,161-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:38:18,162-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:38:18,163-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:38:18,164-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:38:18,166-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:38:18,167-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:38:18,167-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:38:18,213-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:38:18,215-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:38:18,215-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:38:18,216-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:38:18,217-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:38:18,218-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:38:18,220-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:38:18,221-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:38:18,222-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:38:18,222-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:38:18,227-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:38:18,228-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:38:18,232-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:38:18,234-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:38:49,382-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:38:49,391-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:39:16,148-web.py[lineno:58]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:39:16,142-web.py[lineno:58]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:39:17,023-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:39:17,027-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:39:17,035-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:39:17,036-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:39:17,037-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:39:17,038-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:39:17,040-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:39:17,044-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:39:17,046-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:39:17,047-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:39:17,051-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:39:17,051-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:39:17,052-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:39:17,054-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:39:17,060-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:39:17,061-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:39:17,062-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:39:17,069-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:39:17,074-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:39:17,084-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:39:17,089-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:39:17,090-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:39:17,148-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:39:17,148-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:39:17,149-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:39:17,151-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:39:17,151-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:39:17,152-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:39:17,153-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:39:17,153-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:39:17,155-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:39:17,156-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:39:17,156-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:39:17,190-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:39:17,191-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:39:17,191-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:39:17,192-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:39:17,193-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:39:17,194-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:39:17,195-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:39:17,196-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:39:17,196-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:39:17,197-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:39:17,200-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:39:17,200-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:39:17,205-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:39:17,206-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:54:37,271-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:54:37,274-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:54:37,279-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:54:37,280-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:54:37,280-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:54:37,282-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:54:37,283-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:54:37,284-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:54:37,285-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:54:37,286-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:54:37,287-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:54:37,287-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:54:37,288-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:54:37,288-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:54:37,291-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:54:37,291-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:54:37,292-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:54:37,296-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:54:37,297-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:54:37,298-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:54:37,299-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:54:37,300-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:54:37,336-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:54:37,336-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:54:37,337-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:54:37,338-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:54:37,338-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:54:37,340-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:54:37,341-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:54:37,342-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:54:37,343-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:54:37,344-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:54:37,344-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:54:37,361-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:54:37,363-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:54:37,363-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:54:37,364-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:54:37,365-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:54:37,367-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:54:37,368-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:54:37,368-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:54:37,370-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:54:37,370-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:54:37,373-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:54:37,374-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:54:37,377-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:54:37,378-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:55:08,045-web.py[lineno:61]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:55:08,051-web.py[lineno:61]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:55:08,929-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:55:08,932-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:55:08,936-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:55:08,938-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:55:08,939-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:55:08,941-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:55:08,942-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:55:08,944-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:55:08,945-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:55:08,946-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:55:08,947-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:55:08,948-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:55:08,948-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:55:08,949-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:55:08,952-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:55:08,953-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:55:08,954-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:55:08,958-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:55:08,959-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:55:08,962-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:55:08,963-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:55:08,964-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:55:09,056-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:55:09,056-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:55:09,058-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:55:09,059-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:55:09,059-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:55:09,060-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:55:09,061-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:55:09,062-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:55:09,063-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:55:09,065-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:55:09,065-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:55:09,128-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:55:09,131-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:55:09,131-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:55:09,132-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:55:09,133-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:55:09,134-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:55:09,135-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:55:09,136-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:55:09,138-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:55:09,138-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:55:09,140-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:55:09,141-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:55:09,148-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:55:09,149-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:56:00,431-web.py[lineno:61]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:56:02,570-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 17:56:02,572-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 17:56:02,577-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 17:56:02,578-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 17:56:02,579-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 17:56:02,581-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 17:56:02,582-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 17:56:02,584-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 17:56:02,585-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 17:56:02,587-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 17:56:02,590-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 17:56:02,590-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 17:56:02,591-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 17:56:02,592-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 17:56:02,595-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 17:56:02,595-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 17:56:02,596-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 17:56:02,600-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 17:56:02,601-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 17:56:02,603-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 17:56:02,604-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 17:56:02,605-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 17:56:02,658-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 17:56:02,658-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 17:56:02,659-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 17:56:02,660-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 17:56:02,661-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 17:56:02,661-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 17:56:02,662-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 17:56:02,663-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 17:56:02,664-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 17:56:02,665-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 17:56:02,665-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 17:56:02,707-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 17:56:02,708-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 17:56:02,708-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 17:56:02,709-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 17:56:02,710-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 17:56:02,711-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 17:56:02,712-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 17:56:02,713-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 17:56:02,714-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 17:56:02,714-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 17:56:02,716-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 17:56:02,717-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 17:56:02,722-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 17:56:02,724-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 17:56:02,970-web.py[lineno:101]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:56:02,980-web.py[lineno:101]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:56:02,996-web.py[lineno:101]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:56:03,026-web.py[lineno:61]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:56:03,027-web.py[lineno:101]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:56:51,366-web.py[lineno:61]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 17:56:51,373-web.py[lineno:61]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:57:32,614-web.py[lineno:61]-INFO-动态资源请求地址:/index.html
+2020-04-11 17:57:34,987-web.py[lineno:101]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 17:57:35,002-web.py[lineno:101]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 17:57:35,052-web.py[lineno:101]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 17:57:35,087-web.py[lineno:101]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 17:57:35,087-web.py[lineno:61]-INFO-动态资源请求地址:/orders.html
+2020-04-11 17:58:27,528-web.py[lineno:61]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 17:59:02,526-web.py[lineno:61]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:04:33,480-web.py[lineno:61]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:04:34,984-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:04:34,986-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:04:34,992-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:04:34,993-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:04:34,994-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:04:34,997-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:04:34,999-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:04:35,003-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:04:35,005-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:04:35,006-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:04:35,008-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:04:35,008-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:04:35,009-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:04:35,009-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:04:35,012-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:04:35,013-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:04:35,014-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:04:35,031-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:04:35,038-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:04:35,043-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:04:35,046-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:04:35,047-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:04:35,104-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:04:35,104-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:04:35,104-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:04:35,106-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:04:35,106-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:04:35,107-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:04:35,108-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:04:35,108-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:04:35,111-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:04:35,111-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:04:35,112-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:04:35,149-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:04:35,150-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:04:35,150-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:04:35,151-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:04:35,152-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:04:35,154-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:04:35,155-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:04:35,157-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:04:35,158-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:04:35,158-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:04:35,163-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:04:35,164-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:04:35,168-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:04:35,170-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:04:36,372-web.py[lineno:98]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:04:36,378-web.py[lineno:98]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:04:36,382-web.py[lineno:98]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:04:36,413-web.py[lineno:98]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:04:36,418-web.py[lineno:61]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:04:42,720-web.py[lineno:61]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:06:03,302-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:06:04,378-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:06:04,380-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:06:04,384-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:06:04,385-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:06:04,386-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:06:04,387-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:06:04,388-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:06:04,392-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:06:04,393-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:06:04,394-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:06:04,396-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:06:04,396-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:06:04,397-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:06:04,397-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:06:04,400-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:06:04,401-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:06:04,402-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:06:04,408-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:06:04,409-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:06:04,411-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:06:04,412-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:06:04,413-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:06:04,455-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:06:04,455-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:06:04,456-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:06:04,458-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:06:04,458-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:06:04,458-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:06:04,459-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:06:04,460-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:06:04,462-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:06:04,463-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:06:04,463-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:06:04,499-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:06:04,499-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:06:04,500-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:06:04,500-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:06:04,501-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:06:04,502-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:06:04,503-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:06:04,504-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:06:04,505-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:06:04,505-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:06:04,510-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:06:04,511-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:06:04,516-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:06:04,517-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:07:09,821-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:07:10,848-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:07:10,852-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:07:10,861-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:07:10,865-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:07:10,870-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:07:10,876-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:07:10,880-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:07:10,886-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:07:10,887-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:07:10,889-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:07:10,893-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:07:10,894-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:07:10,895-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:07:10,899-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:07:10,902-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:07:10,904-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:07:10,905-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:07:10,909-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:07:10,910-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:07:10,913-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:07:10,915-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:07:10,916-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:07:10,971-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:07:10,971-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:07:10,972-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:07:10,974-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:07:10,974-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:07:10,974-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:07:10,976-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:07:10,977-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:07:10,979-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:07:10,979-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:07:10,979-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:07:11,018-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:07:11,019-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:07:11,019-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:07:11,021-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:07:11,024-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:07:11,025-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:07:11,027-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:07:11,028-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:07:11,029-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:07:11,029-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:07:11,033-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:07:11,034-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:07:11,039-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:07:11,041-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:08:29,585-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:08:30,489-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:08:30,491-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:08:30,496-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:08:30,497-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:08:30,497-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:08:30,499-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:08:30,501-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:08:30,505-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:08:30,506-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:08:30,507-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:08:30,511-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:08:30,511-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:08:30,514-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:08:30,516-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:08:30,519-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:08:30,520-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:08:30,521-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:08:30,529-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:08:30,530-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:08:30,532-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:08:30,533-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:08:30,534-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:08:30,584-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:08:30,584-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:08:30,585-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:08:30,587-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:08:30,587-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:08:30,588-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:08:30,589-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:08:30,590-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:08:30,591-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:08:30,592-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:08:30,592-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:08:30,627-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:08:30,628-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:08:30,628-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:08:30,629-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:08:30,630-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:08:30,631-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:08:30,631-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:08:30,632-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:08:30,633-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:08:30,633-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:08:30,636-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:08:30,637-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:08:30,642-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:08:30,644-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:08:56,031-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:08:59,811-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:09:01,961-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:09:01,975-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:09:01,986-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:09:02,007-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:09:02,014-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:12:28,081-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:12:31,253-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:12:31,266-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:12:31,280-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:12:31,317-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:12:31,329-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:13:02,606-web.py[lineno:62]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 18:13:02,610-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:14:07,034-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:14:08,993-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:14:09,001-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:14:09,016-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:14:09,017-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:14:09,020-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:14:09,026-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:14:09,027-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:14:09,031-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:14:09,032-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:14:09,033-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:14:09,034-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:14:09,034-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:14:09,035-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:14:09,036-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:14:09,040-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:14:09,042-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:14:09,042-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:14:09,046-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:14:09,047-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:14:09,049-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:14:09,050-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:14:09,051-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:14:09,104-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:14:09,104-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:14:09,105-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:14:09,107-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:14:09,107-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:14:09,108-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:14:09,109-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:14:09,110-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:14:09,111-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:14:09,112-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:14:09,112-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:14:09,153-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:14:09,154-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:14:09,154-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:14:09,155-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:14:09,156-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:14:09,157-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:14:09,158-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:14:09,159-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:14:09,162-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:14:09,163-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:14:09,170-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:14:09,173-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:14:09,178-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:14:09,181-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:14:09,397-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:14:09,400-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:14:09,413-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:14:09,436-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:14:09,442-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:15:51,558-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:15:54,129-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:15:54,140-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:15:54,182-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:15:54,237-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:15:54,241-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:15:58,864-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:16:00,643-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:16:00,649-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:16:00,659-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:16:00,661-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:16:00,663-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:16:00,666-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:16:00,668-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:16:00,671-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:16:00,672-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:16:00,674-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:16:00,676-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:16:00,676-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:16:00,677-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:16:00,679-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:16:00,683-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:16:00,685-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:16:00,687-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:16:00,696-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:16:00,698-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:16:00,700-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:16:00,703-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:16:00,704-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:16:00,780-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:16:00,780-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:16:00,781-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:16:00,783-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:16:00,784-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:16:00,785-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:16:00,788-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:16:00,789-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:16:00,791-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:16:00,793-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:16:00,793-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:16:00,858-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:16:00,860-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:16:00,860-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:16:00,861-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:16:00,862-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:16:00,864-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:16:00,865-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:16:00,866-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:16:00,867-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:16:00,868-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:16:00,876-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:16:00,878-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:16:00,884-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:16:00,894-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:16:01,175-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:16:01,180-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:16:01,200-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:16:01,224-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:16:01,231-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:16:39,749-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:16:41,638-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:16:41,641-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:16:41,656-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:16:41,662-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:16:41,664-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:16:41,668-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:16:41,671-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:16:41,674-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:16:41,674-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:16:41,675-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:16:41,677-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:16:41,677-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:16:41,677-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:16:41,678-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:16:41,681-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:16:41,682-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:16:41,683-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:16:41,687-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:16:41,688-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:16:41,690-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:16:41,692-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:16:41,692-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:16:41,743-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:16:41,743-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:16:41,744-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:16:41,747-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:16:41,747-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:16:41,748-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:16:41,749-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:16:41,751-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:16:41,754-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:16:41,755-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:16:41,755-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:16:41,793-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:16:41,794-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:16:41,794-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:16:41,795-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:16:41,797-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:16:41,798-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:16:41,798-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:16:41,799-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:16:41,800-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:16:41,800-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:16:41,804-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:16:41,805-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:16:41,809-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:16:41,812-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:16:42,646-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:16:42,659-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:16:42,665-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:16:42,730-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:16:42,761-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:16:51,380-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:19:31,674-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:19:33,600-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:19:33,602-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:19:33,606-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:19:33,607-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:19:33,608-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:19:33,610-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:19:33,611-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:19:33,613-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:19:33,614-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:19:33,615-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:19:33,616-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:19:33,616-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:19:33,617-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:19:33,618-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:19:33,620-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:19:33,621-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:19:33,621-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:19:33,627-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:19:33,628-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:19:33,630-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:19:33,632-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:19:33,633-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:19:33,698-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:19:33,698-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:19:33,699-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:19:33,701-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:19:33,701-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:19:33,702-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:19:33,703-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:19:33,704-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:19:33,705-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:19:33,705-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:19:33,706-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:19:33,743-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:19:33,744-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:19:33,744-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:19:33,745-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:19:33,747-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:19:33,748-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:19:33,750-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:19:33,751-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:19:33,752-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:19:33,752-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:19:33,755-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:19:33,756-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:19:33,761-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:19:33,762-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:19:34,065-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:19:34,107-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:19:34,145-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:19:34,219-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:19:34,237-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:19:41,058-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:19:47,317-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:20:13,924-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:20:15,114-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:20:15,118-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:20:15,125-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:20:15,126-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:20:15,127-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:20:15,128-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:20:15,130-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:20:15,132-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:20:15,133-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:20:15,134-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:20:15,135-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:20:15,135-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:20:15,136-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:20:15,137-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:20:15,142-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:20:15,143-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:20:15,144-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:20:15,150-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:20:15,151-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:20:15,155-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:20:15,157-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:20:15,158-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:20:15,211-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:20:15,211-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:20:15,212-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:20:15,213-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:20:15,214-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:20:15,214-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:20:15,215-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:20:15,216-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:20:15,218-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:20:15,219-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:20:15,220-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:20:15,258-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:20:15,259-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:20:15,259-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:20:15,261-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:20:15,261-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:20:15,262-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:20:15,263-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:20:15,264-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:20:15,265-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:20:15,265-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:20:15,271-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:20:15,275-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:20:15,295-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:20:15,302-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:20:16,648-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:20:16,682-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:20:16,698-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:20:16,835-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:20:16,856-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:20:23,821-web.py[lineno:62]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:20:30,141-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:20:59,535-web.py[lineno:62]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 18:20:59,539-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:21:14,139-web.py[lineno:62]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:21:16,761-web.py[lineno:99]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:21:16,767-web.py[lineno:99]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:21:16,772-web.py[lineno:99]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:21:16,799-web.py[lineno:62]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:21:16,801-web.py[lineno:99]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:29:20,978-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:29:21,012-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:29:21,021-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:29:21,021-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:29:21,050-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:29:21,054-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:29:32,231-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:29:33,102-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:29:33,107-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:29:33,112-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:29:33,113-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:29:33,113-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:29:33,115-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:29:33,116-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:29:33,118-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:29:33,119-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:29:33,120-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:29:33,121-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:29:33,121-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:29:33,122-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:29:33,123-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:29:33,125-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:29:33,126-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:29:33,127-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:29:33,131-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:29:33,132-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:29:33,134-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:29:33,135-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:29:33,136-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:29:33,178-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:29:33,178-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:29:33,179-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:29:33,180-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:29:33,180-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:29:33,181-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:29:33,182-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:29:33,183-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:29:33,184-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:29:33,185-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:29:33,185-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:29:33,219-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:29:33,220-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:29:33,220-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:29:33,221-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:29:33,221-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:29:33,222-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:29:33,223-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:29:33,224-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:29:33,225-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:29:33,225-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:29:33,228-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:29:33,229-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:29:33,234-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:29:33,236-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:30:53,422-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:30:53,454-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:30:53,463-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:30:53,463-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:30:53,488-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:30:53,491-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:31:01,481-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:31:46,247-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:31:46,281-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:31:46,287-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:31:46,289-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:31:46,312-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:31:46,326-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:32:02,859-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:32:03,873-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:32:03,876-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:32:03,884-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:32:03,885-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:32:03,887-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:32:03,888-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:32:03,889-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:32:03,893-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:32:03,894-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:32:03,895-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:32:03,899-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:32:03,899-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:32:03,900-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:32:03,900-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:32:03,903-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:32:03,904-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:32:03,905-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:32:03,910-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:32:03,911-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:32:03,913-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:32:03,914-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:32:03,915-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:32:03,966-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:32:03,966-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:32:03,967-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:32:03,968-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:32:03,968-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:32:03,969-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:32:03,970-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:32:03,971-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:32:03,972-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:32:03,973-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:32:03,973-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:32:04,012-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:32:04,014-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:32:04,014-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:32:04,015-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:32:04,016-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:32:04,017-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:32:04,018-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:32:04,018-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:32:04,019-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:32:04,019-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:32:04,023-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:32:04,024-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:32:04,029-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:32:04,032-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:33:26,138-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:33:26,172-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:33:26,179-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:33:26,182-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:33:26,210-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:33:26,213-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:33:33,850-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:33:34,647-Image.py[lineno:426]-DEBUG-Importing BlpImagePlugin
+2020-04-11 18:33:34,649-Image.py[lineno:426]-DEBUG-Importing BmpImagePlugin
+2020-04-11 18:33:34,661-Image.py[lineno:426]-DEBUG-Importing BufrStubImagePlugin
+2020-04-11 18:33:34,662-Image.py[lineno:426]-DEBUG-Importing CurImagePlugin
+2020-04-11 18:33:34,662-Image.py[lineno:426]-DEBUG-Importing DcxImagePlugin
+2020-04-11 18:33:34,664-Image.py[lineno:426]-DEBUG-Importing DdsImagePlugin
+2020-04-11 18:33:34,665-Image.py[lineno:426]-DEBUG-Importing EpsImagePlugin
+2020-04-11 18:33:34,667-Image.py[lineno:426]-DEBUG-Importing FitsStubImagePlugin
+2020-04-11 18:33:34,668-Image.py[lineno:426]-DEBUG-Importing FliImagePlugin
+2020-04-11 18:33:34,669-Image.py[lineno:426]-DEBUG-Importing FpxImagePlugin
+2020-04-11 18:33:34,670-Image.py[lineno:429]-DEBUG-Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-04-11 18:33:34,671-Image.py[lineno:426]-DEBUG-Importing FtexImagePlugin
+2020-04-11 18:33:34,671-Image.py[lineno:426]-DEBUG-Importing GbrImagePlugin
+2020-04-11 18:33:34,672-Image.py[lineno:426]-DEBUG-Importing GifImagePlugin
+2020-04-11 18:33:34,675-Image.py[lineno:426]-DEBUG-Importing GribStubImagePlugin
+2020-04-11 18:33:34,676-Image.py[lineno:426]-DEBUG-Importing Hdf5StubImagePlugin
+2020-04-11 18:33:34,677-Image.py[lineno:426]-DEBUG-Importing IcnsImagePlugin
+2020-04-11 18:33:34,682-Image.py[lineno:426]-DEBUG-Importing IcoImagePlugin
+2020-04-11 18:33:34,685-Image.py[lineno:426]-DEBUG-Importing ImImagePlugin
+2020-04-11 18:33:34,688-Image.py[lineno:426]-DEBUG-Importing ImtImagePlugin
+2020-04-11 18:33:34,689-Image.py[lineno:426]-DEBUG-Importing IptcImagePlugin
+2020-04-11 18:33:34,690-Image.py[lineno:426]-DEBUG-Importing JpegImagePlugin
+2020-04-11 18:33:34,744-Image.py[lineno:426]-DEBUG-Importing Jpeg2KImagePlugin
+2020-04-11 18:33:34,744-Image.py[lineno:426]-DEBUG-Importing McIdasImagePlugin
+2020-04-11 18:33:34,745-Image.py[lineno:426]-DEBUG-Importing MicImagePlugin
+2020-04-11 18:33:34,746-Image.py[lineno:429]-DEBUG-Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-04-11 18:33:34,746-Image.py[lineno:426]-DEBUG-Importing MpegImagePlugin
+2020-04-11 18:33:34,747-Image.py[lineno:426]-DEBUG-Importing MpoImagePlugin
+2020-04-11 18:33:34,748-Image.py[lineno:426]-DEBUG-Importing MspImagePlugin
+2020-04-11 18:33:34,749-Image.py[lineno:426]-DEBUG-Importing PalmImagePlugin
+2020-04-11 18:33:34,752-Image.py[lineno:426]-DEBUG-Importing PcdImagePlugin
+2020-04-11 18:33:34,753-Image.py[lineno:426]-DEBUG-Importing PcxImagePlugin
+2020-04-11 18:33:34,753-Image.py[lineno:426]-DEBUG-Importing PdfImagePlugin
+2020-04-11 18:33:34,785-Image.py[lineno:426]-DEBUG-Importing PixarImagePlugin
+2020-04-11 18:33:34,786-Image.py[lineno:426]-DEBUG-Importing PngImagePlugin
+2020-04-11 18:33:34,786-Image.py[lineno:426]-DEBUG-Importing PpmImagePlugin
+2020-04-11 18:33:34,787-Image.py[lineno:426]-DEBUG-Importing PsdImagePlugin
+2020-04-11 18:33:34,788-Image.py[lineno:426]-DEBUG-Importing SgiImagePlugin
+2020-04-11 18:33:34,788-Image.py[lineno:426]-DEBUG-Importing SpiderImagePlugin
+2020-04-11 18:33:34,789-Image.py[lineno:426]-DEBUG-Importing SunImagePlugin
+2020-04-11 18:33:34,790-Image.py[lineno:426]-DEBUG-Importing TgaImagePlugin
+2020-04-11 18:33:34,791-Image.py[lineno:426]-DEBUG-Importing TiffImagePlugin
+2020-04-11 18:33:34,791-Image.py[lineno:426]-DEBUG-Importing WebPImagePlugin
+2020-04-11 18:33:34,796-Image.py[lineno:426]-DEBUG-Importing WmfImagePlugin
+2020-04-11 18:33:34,797-Image.py[lineno:426]-DEBUG-Importing XbmImagePlugin
+2020-04-11 18:33:34,803-Image.py[lineno:426]-DEBUG-Importing XpmImagePlugin
+2020-04-11 18:33:34,805-Image.py[lineno:426]-DEBUG-Importing XVThumbImagePlugin
+2020-04-11 18:33:46,072-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:33:52,540-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:33:54,053-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:34:23,080-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:34:23,134-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:34:23,143-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:34:23,159-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:34:23,208-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:34:23,214-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:34:26,550-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:34:27,873-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:34:38,074-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:34:42,819-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:35:32,795-web.py[lineno:60]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 18:35:32,801-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:35:37,868-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:35:37,901-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:35:37,929-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:35:37,931-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:35:37,950-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:35:37,954-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:37:11,218-web.py[lineno:60]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 18:37:11,221-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:40:23,078-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:40:23,109-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:40:23,115-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:40:23,119-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:40:23,165-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:40:23,165-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:42:05,386-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:42:05,409-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:42:05,417-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:42:05,422-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:42:05,451-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:42:05,465-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:42:38,963-web.py[lineno:60]-INFO-动态资源请求地址:/add_order.html
+2020-04-11 18:42:38,966-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:44:24,899-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-11 18:44:24,941-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-11 18:44:24,949-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-11 18:44:24,953-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-11 18:44:25,007-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-11 18:44:25,013-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:44:30,849-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:44:32,335-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:44:48,657-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:44:50,172-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:51:55,511-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-11 18:51:57,529-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-11 18:52:14,755-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-11 18:52:16,319-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-14 09:20:01,773-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-14 09:20:01,947-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-14 09:20:01,951-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-14 09:20:01,954-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-14 09:20:02,049-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-14 09:20:02,188-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-14 09:20:02,427-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-14 09:36:49,479-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-14 09:36:50,763-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-14 09:37:04,200-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-14 09:37:05,841-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:23:59,902-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:24:00,113-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:24:00,163-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:24:00,167-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:24:00,244-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:24:00,362-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:24:00,584-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:24:35,775-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:24:35,925-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:24:35,935-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:24:35,942-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:24:35,987-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:24:36,035-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:24:36,107-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:25:28,783-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:25:28,854-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:25:28,857-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:25:28,863-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:25:29,001-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:25:29,022-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:25:29,099-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:38:56,458-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:38:56,553-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:38:56,553-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:38:56,553-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:38:56,621-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:38:56,633-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:38:56,721-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:39:43,359-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:39:43,405-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:39:43,412-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:39:43,430-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:39:43,464-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:39:43,464-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:39:43,490-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:41:26,219-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:41:26,258-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:41:26,269-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:41:26,270-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:41:26,317-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:41:26,338-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:41:26,376-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:42:57,736-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:42:57,794-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:42:57,808-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:42:57,809-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:42:57,892-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:42:57,893-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:42:57,935-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:43:37,157-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:43:37,189-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:43:37,205-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:43:37,206-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:43:37,254-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:43:37,255-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:43:37,288-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-15 09:43:54,855-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-15 09:43:54,896-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-15 09:43:54,903-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-15 09:43:54,905-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-15 09:43:54,948-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-15 09:43:54,952-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-15 09:43:55,007-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 15:57:00,294-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-16 15:57:00,636-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-16 15:57:00,639-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-16 15:57:00,642-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-16 15:57:00,739-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-16 15:57:01,107-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 15:57:01,249-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 15:57:21,869-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-16 15:57:21,995-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-16 15:57:22,012-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-16 15:57:22,014-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-16 15:57:22,082-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-16 15:57:22,095-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 15:57:22,288-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 16:00:19,933-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-16 16:00:19,967-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-16 16:00:19,977-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-16 16:00:19,986-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-16 16:00:20,030-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-16 16:00:20,041-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 16:00:20,059-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 16:00:48,598-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-16 16:00:48,627-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-16 16:00:48,632-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-16 16:00:48,633-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-16 16:00:48,745-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-16 16:00:48,746-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 16:00:48,797-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 16:01:47,600-web.py[lineno:60]-INFO-动态资源请求地址:/add_order.html
+2020-04-16 16:01:47,603-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 16:01:53,739-web.py[lineno:60]-INFO-动态资源请求地址:/index.html
+2020-04-16 16:01:53,779-web.py[lineno:96]-INFO-静态资源请求地址:/css/main.css
+2020-04-16 16:01:53,780-web.py[lineno:96]-INFO-静态资源请求地址:/js/jquery-1.12.4.min.js
+2020-04-16 16:01:53,786-web.py[lineno:96]-INFO-静态资源请求地址:/js/index.js
+2020-04-16 16:01:53,830-web.py[lineno:96]-INFO-静态资源请求地址:/images/heima.png
+2020-04-16 16:01:53,838-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 16:01:53,883-web.py[lineno:96]-INFO-静态资源请求地址:/favicon.ico
+2020-04-16 16:02:05,591-web.py[lineno:60]-INFO-动态资源请求地址:/delete_order.html
+2020-04-16 16:02:07,294-web.py[lineno:60]-INFO-动态资源请求地址:/orders.html
+2020-04-16 16:02:24,401-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
+2020-04-16 16:02:27,218-web.py[lineno:60]-INFO-动态资源请求地址:/update_order.html
